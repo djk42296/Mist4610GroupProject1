@@ -5,7 +5,7 @@
 ## Team Members
 1. David Kenny @djk42296
 2. Sahasra Manchikanti @sahasra-22
-3. Grant Harris
+3. Grant Harris @gaharris13
 4. Joseph Enck @havemercy74
 5. Sofia Drescher
 
